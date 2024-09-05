@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, render_template
 from flask_cors import CORS
 from scholarly import scholarly
 import json
@@ -211,5 +211,12 @@ def submit_group():
     save_data(GROUPS_FILE_PATH, research_groups)  # Save the updated list to the JSON file
     return jsonify({"message": "Research group added successfully!"})
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
+
+@app.route('/')
+def home():
+    return render_template('index.html')
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))
