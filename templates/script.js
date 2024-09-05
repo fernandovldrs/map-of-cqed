@@ -1,45 +1,47 @@
 // Initialize the map and set its view
-var map = L.map('map').setView([25.505, -0.09], 2);
+document.addEventListener("DOMContentLoaded", function() {
+    var map = L.map('map').setView([25.505, -0.09], 2);
 
-// Load and display a tile layer on the map
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
+    // Load and display a tile layer on the map
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
 
-// Function to create the custom icon based on an integer
-function createCustomIcon(count) {
-    return L.divIcon({
-        className: 'custom-div-icon', // CSS class for styling
-        html: count > 0 
-            ? `<div class="icon-circle">+${count}</div>`  // Regular icon with number if count > 0
-            : `<div class="icon-circle-small"></div>`,    // Smaller icon if count == 0
-        iconSize: count > 0 ? [30, 30] : [15, 15],        // Adjust icon size based on count
-        popupAnchor: [0, -10] // Position the popup correctly
-    });
-}
-
-
-// Create a marker cluster group
-var markers = L.markerClusterGroup({
-    iconCreateFunction: function(cluster) {
-        // Get markers in the cluster
-        var markers = cluster.getAllChildMarkers();
-        
-        // Calculate the sum of counts for the cluster
-        var sum = 0;
-        markers.forEach(function(marker) {
-            sum += marker.options.count || 0; // Sum the count of all markers in cluster
-        });
-
-        // Return a custom icon for the cluster showing the sum
+    // Function to create the custom icon based on an integer
+    function createCustomIcon(count) {
         return L.divIcon({
-            html: sum > 0 
-                ? `<div class="icon-circle">+${sum}</div>`  // Regular icon with number if count > 0
+            className: 'custom-div-icon', // CSS class for styling
+            html: count > 0 
+                ? `<div class="icon-circle">+${count}</div>`  // Regular icon with number if count > 0
                 : `<div class="icon-circle-small"></div>`,    // Smaller icon if count == 0
-            className: 'custom-div-icon', // Custom class for styling
-            iconSize: [30, 30]  // Size of the cluster icon
+            iconSize: count > 0 ? [30, 30] : [15, 15],        // Adjust icon size based on count
+            popupAnchor: [0, -10] // Position the popup correctly
         });
     }
+
+
+    // Create a marker cluster group
+    var markers = L.markerClusterGroup({
+        iconCreateFunction: function(cluster) {
+            // Get markers in the cluster
+            var markers = cluster.getAllChildMarkers();
+            
+            // Calculate the sum of counts for the cluster
+            var sum = 0;
+            markers.forEach(function(marker) {
+                sum += marker.options.count || 0; // Sum the count of all markers in cluster
+            });
+
+            // Return a custom icon for the cluster showing the sum
+            return L.divIcon({
+                html: sum > 0 
+                    ? `<div class="icon-circle">+${sum}</div>`  // Regular icon with number if count > 0
+                    : `<div class="icon-circle-small"></div>`,    // Smaller icon if count == 0
+                className: 'custom-div-icon', // Custom class for styling
+                iconSize: [30, 30]  // Size of the cluster icon
+            });
+        }
+    });
 });
 
 // Fetch the research groups data from the local Flask backend
