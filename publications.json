@@ -1,0 +1,647 @@
+[
+    {
+        "title": "A Schr\u00f6dinger cat living in two boxes",
+        "id": "10.1126/science.aaf2941",
+        "date": "27-5-2016"
+    },
+    {
+        "title": "Surface participation and dielectric loss in superconducting qubits",
+        "id": "10.1063/1.4934486",
+        "date": "19-10-2015"
+    },
+    {
+        "title": "Deterministic teleportation of a quantum gate between two logical qubits",
+        "id": "10.1038/s41586-018-0470-y",
+        "date": "9-2018"
+    },
+    {
+        "title": "Measurement and control of quasiparticle dynamics in a superconducting qubit",
+        "id": "10.1038/ncomms6836",
+        "date": "18-12-2014"
+    },
+    {
+        "title": "Entanglement of bosonic modes through an engineered exchange interaction",
+        "id": "10.1038/s41586-019-0970-4",
+        "date": "2-2019"
+    },
+    {
+        "title": "Quantum information processing with bosonic qubits in circuit QED",
+        "id": "10.1088/2058-9565/abe989",
+        "date": "1-4-2021"
+    },
+    {
+        "title": "Non-poissonian quantum jumps of a fluxonium qubit due to quasiparticle excitations",
+        "id": "10.1103/physrevlett.113.247001",
+        "date": "8-12-2014"
+    },
+    {
+        "title": "Efficient multiphoton sampling of molecular vibronic spectra on a superconducting bosonic processor",
+        "id": "10.1103/physrevx.10.021060",
+        "date": "17-6-2020"
+    },
+    {
+        "title": "A CNOT gate between multiphoton qubits encoded in two cavities",
+        "id": "10.1038/s41467-018-03059-5",
+        "date": "13-2-2018"
+    },
+    {
+        "title": "Programmable interference between two microwave quantum memories",
+        "id": "10.1103/physrevx.8.021073",
+        "date": "21-6-2018"
+    },
+    {
+        "title": "Normal-metal quasiparticle traps for superconducting qubits",
+        "id": "10.1103/physrevb.94.104516",
+        "date": "20-9-2016"
+    },
+    {
+        "title": "Engineering bilinear mode coupling in circuit QED: Theory and experiment",
+        "id": "10.1103/physreva.99.012314",
+        "date": "10-1-2019"
+    },
+    {
+        "title": "Practical guide for building superconducting quantum devices",
+        "id": "10.1103/prxquantum.2.040202",
+        "date": "18-11-2021"
+    },
+    {
+        "title": "SU (3) quantum interferometry with single-photon input pulses",
+        "id": "10.1103/physrevlett.110.113603",
+        "date": "12-3-2013"
+    },
+    {
+        "title": "Suspending superconducting qubits by silicon micromachining",
+        "id": "10.1063/1.4962327",
+        "date": "12-9-2016"
+    },
+    {
+        "title": "Protecting the quantum interference of cat states by phase-space compression",
+        "id": "10.1103/physrevx.13.021004",
+        "date": "7-4-2023"
+    },
+    {
+        "title": "Techniques for manipulation of two-qubit quantum states and related systems and methods",
+        "id": "10.1109/ecs.2014.6892773",
+        "date": "2-2014"
+    },
+    {
+        "title": "Shaping photons: Quantum information processing with bosonic cQED",
+        "id": "10.1063/5.0183022",
+        "date": "19-2-2024"
+    },
+    {
+        "title": "Quantum simulation of molecular vibronic spectra on a superconducting bosonic processor",
+        "id": "10.1021/acs.jpca.4c01234.s001",
+        "date": "2019"
+    },
+    {
+        "title": "Robust quantum logical gates",
+        "id": "10.22331/q-2024-05-13-1342",
+        "date": "13-5-2024"
+    },
+    {
+        "title": "Entangling bosonic modes via an engineered exchange interaction",
+        "id": "10.1038/s41586-019-0970-4",
+        "date": "2-2019"
+    },
+    {
+        "title": "Continuous-Variable Quantum Computation in Circuit QED",
+        "id": "10.1088/0256-307x/40/11/110303",
+        "date": "1-11-2023"
+    },
+    {
+        "title": "Multi-cavity operations in circuit quantum electrodynamics",
+        "id": "10.15476/elte.2016.124",
+        "date": "2018"
+    },
+    {
+        "title": "On-demand transposition across light-matter interaction regimes in bosonic cQED",
+        "id": "10.1038/s41467-024-50201-7",
+        "date": "10-7-2024"
+    },
+    {
+        "title": "Demonstrating efficient and robust bosonic state reconstruction via optimized excitation counting",
+        "id": "10.2172/2228309",
+        "date": "22-11-2023"
+    },
+    {
+        "title": "Coherent Control of Bloch Oscillations in a Superconducting Circuit",
+        "id": "10.1103/prxquantum.5.020302",
+        "date": "3-4-2024"
+    },
+    {
+        "title": "Realisation of versatile and effective quantum metrology using a single bosonic mode",
+        "id": "10.1088/2058-9565/ac6dfe",
+        "date": "20-5-2022"
+    },
+    {
+        "title": "Efficient and versatile tomography of bosonic quantum states (Part I)",
+        "id": "10.1002/3527608524.ch3",
+        "date": "22-5-2006"
+    },
+    {
+        "title": "Efficient and versatile tomography of bosonic quantum states (Part II)",
+        "id": "10.1002/3527608524.ch3",
+        "date": "22-5-2006"
+    },
+    {
+        "title": "Shaping photons: quantum computation with bosonic cQED",
+        "id": "10.1063/5.0183022",
+        "date": "19-2-2024"
+    },
+    {
+        "title": "Strong coupling of a single photon to a superconducting qubit using circuit quantum electrodynamics",
+        "id": "10.1038/nature02851",
+        "date": "9-2004"
+    },
+    {
+        "title": "Charge-insensitive qubit design derived from the Cooper pair box",
+        "id": "10.1103/physreva.76.042319",
+        "date": "12-10-2007"
+    },
+    {
+        "title": "Cavity quantum electrodynamics for superconducting electrical circuits: An architecture for quantum computation",
+        "id": "10.1103/physreva.69.062320",
+        "date": "29-6-2004"
+    },
+    {
+        "title": "Microwave oscillations of a nanomagnet driven by a spin-polarized current",
+        "id": "10.1038/nature01967",
+        "date": "9-2003"
+    },
+    {
+        "title": "Superconducting circuits for quantum information: an outlook",
+        "id": "10.1017/9781316779460.006",
+        "date": "31-7-2022"
+    },
+    {
+        "title": "Introduction to quantum noise, measurement, and amplification",
+        "id": "10.1103/revmodphys.82.1155",
+        "date": "15-4-2010"
+    },
+    {
+        "title": "Coupling superconducting qubits via a cavity bus",
+        "id": "10.1103/physrevb.79.024502",
+        "date": "7-1-2009"
+    },
+    {
+        "title": "Demonstration of two-qubit algorithms with a superconducting quantum processor",
+        "id": "10.1038/nature08121",
+        "date": "28-6-2009"
+    },
+    {
+        "title": "Observation of High Coherence in Josephson Junction Qubits Measured<? format?> in a Three-Dimensional Circuit QED Architecture",
+        "id": "10.1103/physrevlett.107.240501",
+        "date": "5-12-2011"
+    },
+    {
+        "title": "Wiring up quantum systems",
+        "id": "10.1038/451664a",
+        "date": "2-2008"
+    },
+    {
+        "title": "The radio-frequency single-electron transistor (RF-SET): A fast and ultrasensitive electrometer",
+        "id": "10.1126/science.280.5367.1238",
+        "date": "22-5-1998"
+    },
+    {
+        "title": "Resolving photon number states in a superconducting circuit",
+        "id": "10.1038/nature05461",
+        "date": "2-2007"
+    },
+    {
+        "title": "Extending the lifetime of a quantum bit with error correction in superconducting circuits",
+        "id": "10.1038/nature18949",
+        "date": "20-7-2016"
+    },
+    {
+        "title": "Quantum-information processing with circuit quantum electrodynamics",
+        "id": "10.1109/centcon52345.2021.9687985",
+        "date": "19-11-2021"
+    },
+    {
+        "title": "Approaching unit visibility for control of a superconducting qubit with dispersive readout",
+        "id": "10.1103/physrevlett.95.060501",
+        "date": "1-8-2005"
+    },
+    {
+        "title": "Suppressing charge noise decoherence in superconducting charge qubits",
+        "id": "10.2172/2426453",
+        "date": "5-8-2024"
+    },
+    {
+        "title": "Preparation and measurement of three-qubit entanglement in a superconducting circuit",
+        "id": "10.1038/nature09416",
+        "date": "9-2010"
+    },
+    {
+        "title": "Realization of three-qubit quantum error correction with superconducting circuits",
+        "id": "10.1038/nature10786",
+        "date": "2-2012"
+    },
+    {
+        "title": "Dynamically protected cat-qubits: a new paradigm for universal quantum computation",
+        "id": "10.1088/1367-2630/16/4/045014",
+        "date": "22-4-2014"
+    },
+    {
+        "title": "Deterministically encoding quantum information using 100-photon Schr\u00f6dinger cat states",
+        "id": "10.1126/science.1243289",
+        "date": "11-2013"
+    },
+    {
+        "title": "Amplifying quantum signals with the single-electron transistor",
+        "id": "10.1038/35023253",
+        "date": "8-2000"
+    },
+    {
+        "title": "Controlling the spontaneous emission of a superconducting transmon qubit",
+        "id": "10.1103/physrevlett.101.080502",
+        "date": "21-8-2008"
+    },
+    {
+        "title": "High-cooperativity coupling of electron-spin ensembles to superconducting cavities",
+        "id": "10.1103/physrevlett.105.140501",
+        "date": "27-9-2010"
+    },
+    {
+        "title": "Observation of quantum state collapse and revival due to the single-photon Kerr effect",
+        "id": "10.1038/nature11902",
+        "date": "3-2013"
+    },
+    {
+        "title": "Generating single microwave photons in a circuit",
+        "id": "10.1038/nature06126",
+        "date": "9-2007"
+    },
+    {
+        "title": "Confining the state of light to a quantum manifold by engineered two-photon loss",
+        "id": "10.1126/science.aaa2085",
+        "date": "20-2-2015"
+    },
+    {
+        "title": "Phase-preserving amplification near the quantum limit with a Josephson ring modulator",
+        "id": "10.1038/nature09035",
+        "date": "5-2010"
+    },
+    {
+        "title": "Optical antenna: Towards a unity efficiency near-field optical probe",
+        "id": "10.1063/1.118577",
+        "date": "17-3-1997"
+    },
+    {
+        "title": "A coherent all-electrical interface between polar molecules and mesoscopic superconducting resonators",
+        "id": "10.1038/nphys386",
+        "date": "27-8-2006"
+    },
+    {
+        "title": "Hybrid quantum processors: molecular ensembles as quantum memory for solid state circuits",
+        "id": "10.1103/physrevlett.97.033003",
+        "date": "21-7-2006"
+    },
+    {
+        "title": "Circuit quantum electrodynamics",
+        "id": "10.29172/34c652fc-c268-4339-868f-508852ef3d9d",
+        "date": "2021"
+    },
+    {
+        "title": "The quantum technologies roadmap: a European community view",
+        "id": "10.1088/1367-2630/aad1ea",
+        "date": "15-8-2018"
+    },
+    {
+        "title": "Climbing the Jaynes\u2013Cummings ladder and observing its nonlinearity in a cavity QED system",
+        "id": "10.1038/nature07112",
+        "date": "1-7-2008"
+    },
+    {
+        "title": "Photon-mediated interactions between distant artificial atoms",
+        "id": "10.1126/science.1244324",
+        "date": "20-12-2013"
+    },
+    {
+        "title": "Realizing repeated quantum error correction in a distance-three surface code",
+        "id": "10.1038/s41586-022-04566-8",
+        "date": "25-5-2022"
+    },
+    {
+        "title": "ac Stark shift and dephasing of a superconducting qubit strongly coupled to a cavity field",
+        "id": "10.1103/physrevlett.94.123602",
+        "date": "30-3-2005"
+    },
+    {
+        "title": "Coplanar waveguide resonators for circuit quantum electrodynamics",
+        "id": "10.1063/1.3010859",
+        "date": "1-12-2008"
+    },
+    {
+        "title": "Qubit-photon interactions in a cavity: Measurement-induced dephasing and number splitting",
+        "id": "10.1103/physreva.74.042318",
+        "date": "17-10-2006"
+    },
+    {
+        "title": "Implementation of a Toffoli gate with superconducting circuits",
+        "id": "10.1038/nature10713",
+        "date": "14-12-2011"
+    },
+    {
+        "title": "Observation of Berry's phase in a solid-state qubit",
+        "id": "10.1103/physreva.89.012110",
+        "date": "15-1-2014"
+    },
+    {
+        "title": "Dressed collective qubit states and the Tavis-Cummings model in circuit QED",
+        "id": "10.1103/physrevlett.103.083601",
+        "date": "17-8-2009"
+    },
+    {
+        "title": "Superconducting qubits: A short review",
+        "id": "10.2172/2282572",
+        "date": "17-1-2024"
+    },
+    {
+        "title": "Observation of Resonant Photon Blockade at Microwave Frequencies<? format?> Using Correlation Function Measurements",
+        "id": "10.1103/physrevlett.106.243601",
+        "date": "15-6-2011"
+    },
+    {
+        "title": "Dipole coupling of a double quantum dot to a microwave resonator",
+        "id": "10.1021/acs.nanolett.4c01791.s001",
+        "date": "2012"
+    },
+    {
+        "title": "Experimental realization of non-Abelian non-adiabatic geometric gates",
+        "id": "10.1038/nature12010",
+        "date": "4-2013"
+    },
+    {
+        "title": "Rapid high-fidelity single-shot dispersive readout of superconducting qubits",
+        "id": "10.1103/physrevapplied.7.054020",
+        "date": "26-5-2017"
+    },
+    {
+        "title": "Engineering cryogenic setups for 100-qubit scale superconducting circuit systems",
+        "id": "10.1140/epjqt/s40507-019-0072-0",
+        "date": "28-5-2019"
+    },
+    {
+        "title": "Strong coupling cavity QED with gate-defined double quantum dots enabled by a high impedance resonator",
+        "id": "10.1103/physrevx.7.011030",
+        "date": "9-3-2017"
+    },
+    {
+        "title": "Digital quantum simulation of spin models with circuit quantum electrodynamics",
+        "id": "10.1103/physrevx.5.021027",
+        "date": "17-6-2015"
+    },
+    {
+        "title": "Deterministic quantum state transfer and remote entanglement using microwave photons",
+        "id": "10.1038/s41586-018-0195-y",
+        "date": "6-2018"
+    },
+    {
+        "title": "Deterministic quantum teleportation with feed-forward in a solid state system",
+        "id": "10.1038/nature12422",
+        "date": "8-2013"
+    },
+    {
+        "title": "Input-output theory for waveguide QED with an ensemble of inhomogeneous atoms",
+        "id": "10.1103/physreva.88.043806",
+        "date": "7-10-2013"
+    },
+    {
+        "title": "Repeated quantum error detection in a surface code",
+        "id": "10.1038/s41567-020-0920-y",
+        "date": "8-6-2020"
+    },
+    {
+        "title": "Antibunching of microwave-frequency photons observed in correlation measurements using linear detectors",
+        "id": "10.1038/nphys1845",
+        "date": "5-12-2010"
+    },
+    {
+        "title": "Quantum computers",
+        "id": "10.1021/acs.jctc.2c00388.s001",
+        "date": "2010"
+    },
+    {
+        "title": "Evidence for stripe correlations of spins and holes in copper oxide superconductors",
+        "id": "10.1080/10448639608217720",
+        "date": "1-1996"
+    },
+    {
+        "title": "Coherent control of macroscopic quantum states in a single-Cooper-pair box",
+        "id": "10.1038/19718",
+        "date": "4-1999"
+    },
+    {
+        "title": "Coherent quantum dynamics of a superconducting flux qubit",
+        "id": "10.1126/science.1081045",
+        "date": "21-3-2003"
+    },
+    {
+        "title": "Quantum oscillations in two coupled charge qubits",
+        "id": "10.1038/nature01365",
+        "date": "2-2003"
+    },
+    {
+        "title": "Coherent dynamics of a flux qubit coupled to a harmonic oscillator",
+        "id": "10.1038/nature02831",
+        "date": "9-2004"
+    },
+    {
+        "title": "Coexistence of, and Competition between, Superconductivity and Charge-Stripe Order in ",
+        "id": "10.1142/s0217984900000513",
+        "date": "10-5-2000"
+    },
+    {
+        "title": "Noise spectroscopy through dynamical decoupling with a superconducting flux qubit",
+        "id": "10.1038/nphys1994",
+        "date": "8-5-2011"
+    },
+    {
+        "title": "Hybridizing ferromagnetic magnons and microwave photons in the quantum limit",
+        "id": "10.1103/physrevlett.113.083603",
+        "date": "22-8-2014"
+    },
+    {
+        "title": "Demonstration of conditional gate operation using superconducting charge qubits",
+        "id": "10.1038/nature02015",
+        "date": "10-2003"
+    },
+    {
+        "title": "Neutron-scattering study of stripe-phase order of holes and spins in ",
+        "id": "10.1080/10448639608217720",
+        "date": "1-1996"
+    },
+    {
+        "title": "Resonance fluorescence of a single artificial atom",
+        "id": "10.1103/physrevx.13.021039",
+        "date": "26-6-2023"
+    },
+    {
+        "title": "Coherent coupling between a ferromagnetic magnon and a superconducting qubit",
+        "id": "10.1126/science.aaa3693",
+        "date": "24-7-2015"
+    },
+    {
+        "title": "Hybrid quantum systems based on magnonics",
+        "id": "10.7567/1882-0786/ab248d",
+        "date": "4-6-2019"
+    },
+    {
+        "title": "Flux-driven Josephson parametric amplifier",
+        "id": "10.1103/physrevapplied.12.044051",
+        "date": "23-10-2019"
+    },
+    {
+        "title": "Quantum coherent tunable coupling of superconducting qubits",
+        "id": "10.1126/science.1141324",
+        "date": "4-5-2007"
+    },
+    {
+        "title": "Decoherence of Flux Qubits due to  Flux Noise",
+        "id": "10.1103/physrevb.81.132502",
+        "date": "19-4-2010"
+    },
+    {
+        "title": "Charge dynamics across the  planes in ",
+        "id": "10.1021/acs.jpcc.4c00708.s001",
+        "date": "1992"
+    },
+    {
+        "title": "Charge echo in a Cooper-pair box",
+        "id": "10.1103/physrevlett.88.047901",
+        "date": "1-2002"
+    },
+    {
+        "title": "Bidirectional conversion between microwave and light via ferromagnetic magnons",
+        "id": "10.1103/physrevb.93.174427",
+        "date": "27-5-2016"
+    },
+    {
+        "title": "Electromagnetically induced transparency on a single artificial atom",
+        "id": "10.1103/physrevlett.104.193601",
+        "date": "11-5-2010"
+    },
+    {
+        "title": "Single artificial-atom lasing",
+        "id": "10.1038/nature06141",
+        "date": "4-10-2007"
+    },
+    {
+        "title": "Cavity optomagnonics with spin-orbit coupled photons",
+        "id": "10.1103/physrevlett.116.223601",
+        "date": "2-6-2016"
+    },
+    {
+        "title": "Quantum noise in the Josephson charge qubit",
+        "id": "10.1103/physrevlett.93.267007",
+        "date": "12-2004"
+    },
+    {
+        "title": "Hybrid quantum systems with circuit quantum electrodynamics",
+        "id": "10.1201/b18858-17",
+        "date": "4-9-2015"
+    },
+    {
+        "title": "Anisotropic transport properties of single-crystal : Evidence for the dimensional crossover",
+        "id": "10.1021/ja077958f.s006",
+        "date": "1993"
+    },
+    {
+        "title": "Advances in magnetics roadmap on spin-wave computing",
+        "id": "10.1201/b17374-14",
+        "date": "3-9-2010"
+    },
+    {
+        "title": "Spectroscopy of energy-level splitting between two macroscopic quantum states of charge coherently superposed by Josephson coupling",
+        "id": "10.1103/physrevlett.79.2328",
+        "date": "22-9-1997"
+    },
+    {
+        "title": "Entanglement-based single-shot detection of a single magnon with a superconducting qubit",
+        "id": "10.1126/science.aaz9236",
+        "date": "24-1-2020"
+    },
+    {
+        "title": "Ultrastrong coupling regime of cavity QED with phase-biased flux qubits",
+        "id": "10.1103/physreva.80.032109",
+        "date": "15-9-2009"
+    },
+    {
+        "title": "Topological photonics",
+        "id": "10.3788/pi.2022.r02",
+        "date": "2022"
+    },
+    {
+        "title": "Observation of High Coherence in Josephson Junction Qubits Measured in a Three-Dimensional Circuit QED Architecture",
+        "id": "10.1103/physrevlett.107.240501",
+        "date": "5-12-2011"
+    },
+    {
+        "title": "High-Fidelity Readout in Circuit Quantum Electrodynamics Using<? format?> the Jaynes-Cummings Nonlinearity",
+        "id": "10.1103/physrevlett.105.173601",
+        "date": "19-10-2010"
+    },
+    {
+        "title": "Time-and site-resolved dynamics in a topological circuit",
+        "id": "10.1103/physrevx.5.021031",
+        "date": "22-6-2015"
+    },
+    {
+        "title": "Quantum control of surface acoustic-wave phonons",
+        "id": "10.1017/cbo9780511665424.016",
+        "date": "13-7-1998"
+    },
+    {
+        "title": "Quantum trajectory approach to circuit QED: Quantum jumps and the Zeno effect",
+        "id": "10.1103/physreva.77.012112",
+        "date": "25-1-2008"
+    },
+    {
+        "title": "Fast reset and suppressing spontaneous emission of a superconducting qubit",
+        "id": "10.1063/1.3435463",
+        "date": "17-5-2010"
+    },
+    {
+        "title": "Quantum non-demolition detection of single microwave photons in a circuit",
+        "id": "10.1038/nphys1710",
+        "date": "20-6-2010"
+    },
+    {
+        "title": "A dissipatively stabilized Mott insulator of photons",
+        "id": "10.1038/s41586-019-0897-9",
+        "date": "2-2019"
+    },
+    {
+        "title": "Quantum computing with an electron spin ensemble",
+        "id": "10.1007/978-1-4939-3658-8_1",
+        "date": "2016"
+    },
+    {
+        "title": "Fabrication and characterization of superconducting circuit QED devices for quantum computation",
+        "id": "10.1109/tasc.2005.850084",
+        "date": "6-2005"
+    },
+    {
+        "title": "Spin\u2013phonon interactions in silicon carbide addressed by Gaussian acoustics",
+        "id": "10.1038/s41567-019-0420-0",
+        "date": "11-2-2019"
+    },
+    {
+        "title": "Storage of multiple coherent microwave excitations in an electron spin ensemble",
+        "id": "10.1103/physrevlett.105.140503",
+        "date": "27-9-2010"
+    },
+    {
+        "title": "Photonic materials in circuit quantum electrodynamics",
+        "id": "10.1038/s41567-020-0815-y",
+        "date": "3-2020"
+    },
+    {
+        "title": "Random access quantum information processors using multimode circuit quantum electrodynamics",
+        "id": "10.1038/s41467-017-02046-6",
+        "date": "4-12-2017"
+    }
+]
